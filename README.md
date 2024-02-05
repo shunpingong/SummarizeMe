@@ -10,15 +10,15 @@ A quick guide on how to use our SummarizeMe telegram AI bot.
    pip install google.generativeai
    pip install telebot
    ```
-
-2. Message the bot on telegram
+2. Run the bot
+   ```bash
+   python main.py
+   ```
+   
+3. Message the bot on telegram
 
    ```bash
    @SummarizeMe_bot
    ```
 
-3. Run the bot
-   ```bash
-   python main.py
-   ```
 4. Enjoy interacting with SummarizeMe
